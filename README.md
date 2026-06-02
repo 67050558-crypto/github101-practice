@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| Example Student | Team 00 | Demo | [example evidence](docs/evidence/example-student.md) | - |
+| นลินนิภา ดีพร้อมพันธ์ | Team 15 | Product/Ux | [example evidence] https://github.com/67050558-crypto/github101-practice/blob/aa0cea78ef8defb605edbfe0b60cd281c0b4ae01/docs/evidence/67050558-Nalinnipha.md| #40 |
 
 ---
 
